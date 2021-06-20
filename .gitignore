@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# Refused to match
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+/lib/
+/node_modules/

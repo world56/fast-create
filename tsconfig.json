@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "emitDeclarationOnly": true,
+    "declaration": true,
+    "outDir": "lib",
+    "jsx": "react"
+  },
+  "include": ["./components/**/*.ts", "./components/**/*.tsx"]
+}
